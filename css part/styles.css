@@ -1,0 +1,161 @@
+a {
+    color: #11999E;
+}
+
+a:hover {
+    color: aliceblue;
+}
+
+body {
+    font-family: serif;
+    margin: 0;
+    text-align: center;
+}
+
+h2 {
+    font-weight: normal;
+    color: #11999E;
+    font-family: sans-serif;
+    font-size: 2.7rem;
+}
+
+h3 {
+    color: #11999E;
+}
+
+.adjust1{
+    margin: 0 auto 0 auto;
+    padding: 0 0 20px 0;
+    font-size: 2rem;
+}
+
+.adjust2{
+    margin-top: 0;
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.line{
+    color: #c1cdcd;
+    border-style: dotted none none;
+    border-width: 7px;
+    margin: 6.5rem auto;
+    width: 55px;
+}
+
+.pfp{
+    width: 15%;
+    border-radius: 30%;
+}
+
+.profile{
+    margin-top: 100px;
+}
+
+.bcloud{
+    position:absolute;
+}
+
+.tcloud{
+    position:absolute;
+    top: 12.5%;
+    left: 65%;
+}
+
+.heading{
+    color: #66BFBF;
+    font-family: 'Laila', sans-serif;
+    font-size: 5rem;
+    line-height: 2;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 150px;
+}
+
+.heading2 {
+    margin-bottom: 0;
+}
+
+.sheading{
+    color: #66BFBF;
+    font-family: 'Marmelad', sans-serif;
+    font-size: 2.5rem;
+    margin-top: 0;
+}
+
+.top {
+    background-color: lightcyan;
+}
+
+.skills{
+    width: 65%;
+    margin: 0 auto;
+    line-height: 1.65;
+}
+
+.skill-row1{
+    padding: 6rem 3rem 0;
+    text-align: left;
+}
+
+.skill-row2{
+    padding: 6rem 3rem 0;
+    text-align: left;
+}
+
+.pic1{
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+    width: 30%;
+}
+
+.pic2{
+    float: right;
+    margin-left: 30px;
+    width: 30%;
+}
+
+.text{
+    width: 50%;
+    margin: 0 auto;
+    color: #40514E;
+    font-size: 1.8rem;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    margin-top: 50px;
+    padding-top: 35px;
+    padding-bottom: 30px;
+}
+
+.last{
+    color: #EAF6F6;
+    font-size: 0.88rem;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.footer-link1{
+    text-decoration: auto;
+    position: relative;
+    right: 20px;
+    font-size: 1.2rem;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.footer-link2{
+    text-decoration: auto;
+    font-size: 1.2rem;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.footer-link3{
+    text-decoration: auto;
+    position: relative;
+    left: 20px;
+    font-size: 1.2rem;
+    font-family: 'Noto Sans', sans-serif;
+}
